@@ -1,5 +1,5 @@
 # oss-traycontrol
-Регулятор громкости в трей для OSS (Open Sound System) 4.
+Регулятор громкости в трей для OSS (Open Sound System) 4. Написан на Python 2.7 с использованием PyGTK.
 
 Скриншоты и инструкция пользователя: https://zenway.ru/page/mixtreyossvolume
 
